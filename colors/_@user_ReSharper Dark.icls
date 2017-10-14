@@ -1,0 +1,13 @@
+<scheme name="_@user_ReSharper Dark" version="142" parent_scheme="ReSharper Dark">
+  <option name="FONT_SCALE" value="1.0833334" />
+  <metaInfo>
+    <property name="created">2017-10-14T14:27:12</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2017.1.0.0</property>
+    <property name="modified">2017-10-14T14:30:44</property>
+    <property name="originalScheme">ReSharper Dark</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="20" />
+  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+</scheme>
